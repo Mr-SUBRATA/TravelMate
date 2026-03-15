@@ -1,0 +1,315 @@
+{
+  "trip_request": {
+    "source": "Kolkata",
+    "destination": "Darjeeling",
+    "budget": 500,
+    "days": 2,
+    "categories": [
+      "historical",
+      "monument"
+    ],
+    "timestamp": "2026-03-15T02:16:33.712375"
+  },
+  "journey": {
+    "from": "Kolkata",
+    "to": "Darjeeling",
+    "transport": {
+      "mode": "train/bus",
+      "emoji": "🚂",
+      "duration": "4-6 hours",
+      "distance": "300 km",
+      "cost": 40
+    },
+    "route_stops": [
+      "Kolkata",
+      "→",
+      "Transfer",
+      "→",
+      "Darjeeling"
+    ],
+    "summary": "Travel from Kolkata to Darjeeling by train/bus. Duration: 4-6 hours. Cost: $40"
+  },
+  "budget_breakdown": {
+    "total_budget": 500,
+    "transport_cost": 40,
+    "remaining_for_activities": 460,
+    "daily_budget": 230.0,
+    "actual_activities_cost": 105,
+    "remaining_buffer": 355
+  },
+  "destination_info": {
+    "city": "Darjeeling",
+    "total_places_found": 6,
+    "places": [
+      {
+        "place_id": "dhr-darjeeling",
+        "name": "Darjeeling Himalayan Railway (Toy Train)",
+        "categories": [
+          "historical",
+          "landmark",
+          "outdoor",
+          "adventure"
+        ],
+        "price_level": 2,
+        "rating": 4.8,
+        "description": "A UNESCO World Heritage Site, this iconic narrow-gauge railway offers a charming journey through the hills, a testament to British engineering from the late 19th century.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning/afternoon",
+        "duration_hours": 3,
+        "address": "Darjeeling Railway Station, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Darjeeling_Himalayan_Railway_Steam_Locomotive_780A.jpg"
+      },
+      {
+        "place_id": "ghoom-monastery",
+        "name": "Ghoom Monastery (Yiga Choeling Monastery)",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "One of the oldest Tibetan Buddhist monasteries in Darjeeling, established in 1875. It houses a 15-foot high statue of Maitreya Buddha and ancient Buddhist manuscripts.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Ghoom, Darjeeling, West Bengal 734102",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ghoom_Monastery_2.jpg"
+      },
+      {
+        "place_id": "peace-pagoda-darjeeling",
+        "name": "Japanese Peace Pagoda",
+        "categories": [
+          "monument",
+          "religious",
+          "historical",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "Built under the guidance of Nichidatsu Fujii, a Japanese Buddhist monk, this pagoda symbolizes peace and harmony. It offers panoramic views of Darjeeling town and Kanchenjunga.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "afternoon",
+        "duration_hours": 1.5,
+        "address": "Jalapahar, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Japanese_Peace_Pagoda%2C_Darjeeling_%282%29.jpg"
+      },
+      {
+        "place_id": "bhutia-busty-monastery",
+        "name": "Bhutia Busty Monastery",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.4,
+        "description": "Originally located on Observatory Hill, this monastery was rebuilt in 1879 after an earthquake. It houses a precious copy of the Tibetan Book of the Dead and is a serene historical site.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Bhutia Busty Rd, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bhutia_Busty_Monastery_Darjeeling.jpg"
+      },
+      {
+        "place_id": "observatory-hill-mahakal-temple",
+        "name": "Observatory Hill and Mahakal Temple",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.5,
+        "description": "A sacred hill where the original Dorje Ling monastery once stood. It is now home to the Mahakal Temple, a unique Hindu-Buddhist shrine, offering breathtaking views of Darjeeling and the Himalayas.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1.5,
+        "address": "Chauk Bazaar, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mahakal_Temple%2C_Observatory_Hill%2C_Darjeeling.jpg"
+      },
+      {
+        "place_id": "darjeeling-war-memorial",
+        "name": "Darjeeling War Memorial",
+        "categories": [
+          "monument",
+          "historical",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.3,
+        "description": "Located within the Batasia Loop of the Darjeeling Himalayan Railway, this memorial commemorates the Gorkha soldiers who sacrificed their lives for the nation. It offers stunning views and a poignant historical tribute.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning/afternoon",
+        "duration_hours": 0.5,
+        "address": "Batasia Loop, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Batasia_Loop_War_Memorial_Darjeeling.jpg"
+      }
+    ],
+    "top_rated": [
+      {
+        "place_id": "dhr-darjeeling",
+        "name": "Darjeeling Himalayan Railway (Toy Train)",
+        "categories": [
+          "historical",
+          "landmark",
+          "outdoor",
+          "adventure"
+        ],
+        "price_level": 2,
+        "rating": 4.8,
+        "description": "A UNESCO World Heritage Site, this iconic narrow-gauge railway offers a charming journey through the hills, a testament to British engineering from the late 19th century.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning/afternoon",
+        "duration_hours": 3,
+        "address": "Darjeeling Railway Station, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Darjeeling_Himalayan_Railway_Steam_Locomotive_780A.jpg"
+      },
+      {
+        "place_id": "peace-pagoda-darjeeling",
+        "name": "Japanese Peace Pagoda",
+        "categories": [
+          "monument",
+          "religious",
+          "historical",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "Built under the guidance of Nichidatsu Fujii, a Japanese Buddhist monk, this pagoda symbolizes peace and harmony. It offers panoramic views of Darjeeling town and Kanchenjunga.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "afternoon",
+        "duration_hours": 1.5,
+        "address": "Jalapahar, Darjeeling, West Bengal 734101",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Japanese_Peace_Pagoda%2C_Darjeeling_%282%29.jpg"
+      },
+      {
+        "place_id": "ghoom-monastery",
+        "name": "Ghoom Monastery (Yiga Choeling Monastery)",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "One of the oldest Tibetan Buddhist monasteries in Darjeeling, established in 1875. It houses a 15-foot high statue of Maitreya Buddha and ancient Buddhist manuscripts.",
+        "city": "Darjeeling",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Ghoom, Darjeeling, West Bengal 734102",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ghoom_Monastery_2.jpg"
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "activities": [
+        {
+          "time": "09:00 - 12:00",
+          "name": "Darjeeling Himalayan Railway (Toy Train)",
+          "categories": [
+            "historical",
+            "landmark",
+            "outdoor",
+            "adventure"
+          ],
+          "cost": 30,
+          "rating": 4.8,
+          "description": "A UNESCO World Heritage Site, this iconic narrow-gauge railway offers a charming journey through the hills, a testament to British engineering from the late 19th century.",
+          "address": "Darjeeling Railway Station, Darjeeling, West Bengal 734101",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Darjeeling_Himalayan_Railway_Steam_Locomotive_780A.jpg"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "name": "Ghoom Monastery (Yiga Choeling Monastery)",
+          "categories": [
+            "historical",
+            "religious",
+            "landmark"
+          ],
+          "cost": 15,
+          "rating": 4.6,
+          "description": "One of the oldest Tibetan Buddhist monasteries in Darjeeling, established in 1875. It houses a 15-foot high statue of Maitreya Buddha and ancient Buddhist manuscripts.",
+          "address": "Ghoom, Darjeeling, West Bengal 734102",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ghoom_Monastery_2.jpg"
+        },
+        {
+          "time": "15:00 - 16:00",
+          "name": "Japanese Peace Pagoda",
+          "categories": [
+            "monument",
+            "religious",
+            "historical",
+            "outdoor"
+          ],
+          "cost": 15,
+          "rating": 4.7,
+          "description": "Built under the guidance of Nichidatsu Fujii, a Japanese Buddhist monk, this pagoda symbolizes peace and harmony. It offers panoramic views of Darjeeling town and Kanchenjunga.",
+          "address": "Jalapahar, Darjeeling, West Bengal 734101",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Japanese_Peace_Pagoda%2C_Darjeeling_%282%29.jpg"
+        }
+      ],
+      "total_cost": 60,
+      "within_budget": true
+    },
+    {
+      "day": 2,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Bhutia Busty Monastery",
+          "categories": [
+            "historical",
+            "religious",
+            "landmark"
+          ],
+          "cost": 15,
+          "rating": 4.4,
+          "description": "Originally located on Observatory Hill, this monastery was rebuilt in 1879 after an earthquake. It houses a precious copy of the Tibetan Book of the Dead and is a serene historical site.",
+          "address": "Bhutia Busty Rd, Darjeeling, West Bengal 734101",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bhutia_Busty_Monastery_Darjeeling.jpg"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "name": "Observatory Hill and Mahakal Temple",
+          "categories": [
+            "historical",
+            "religious",
+            "landmark",
+            "outdoor"
+          ],
+          "cost": 15,
+          "rating": 4.5,
+          "description": "A sacred hill where the original Dorje Ling monastery once stood. It is now home to the Mahakal Temple, a unique Hindu-Buddhist shrine, offering breathtaking views of Darjeeling and the Himalayas.",
+          "address": "Chauk Bazaar, Darjeeling, West Bengal 734101",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mahakal_Temple%2C_Observatory_Hill%2C_Darjeeling.jpg"
+        },
+        {
+          "time": "14:00 - 14:00",
+          "name": "Darjeeling War Memorial",
+          "categories": [
+            "monument",
+            "historical",
+            "outdoor"
+          ],
+          "cost": 15,
+          "rating": 4.3,
+          "description": "Located within the Batasia Loop of the Darjeeling Himalayan Railway, this memorial commemorates the Gorkha soldiers who sacrificed their lives for the nation. It offers stunning views and a poignant historical tribute.",
+          "address": "Batasia Loop, Darjeeling, West Bengal 734101",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Batasia_Loop_War_Memorial_Darjeeling.jpg"
+        }
+      ],
+      "total_cost": 45,
+      "within_budget": true
+    }
+  ],
+  "metadata": {
+    "generated_by": "TravelMate ML Service",
+    "ai_model": "Google Gemini 2.5 Flash",
+    "generated_at": "2026-03-15T02:16:33.712375",
+    "version": "2.0.0"
+  }
+}

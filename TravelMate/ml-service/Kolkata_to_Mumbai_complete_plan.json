@@ -1,0 +1,304 @@
+{
+  "trip_request": {
+    "source": "Kolkata",
+    "destination": "Mumbai",
+    "budget": 500,
+    "days": 2,
+    "categories": [
+      "historical",
+      "monument"
+    ],
+    "timestamp": "2026-03-15T01:47:35.740125"
+  },
+  "journey": {
+    "from": "Kolkata",
+    "to": "Mumbai",
+    "transport": {
+      "mode": "train/bus",
+      "emoji": "🚂",
+      "duration": "4-6 hours",
+      "distance": "300 km",
+      "cost": 40
+    },
+    "route_stops": [
+      "Kolkata",
+      "→",
+      "Transfer",
+      "→",
+      "Mumbai"
+    ],
+    "summary": "Travel from Kolkata to Mumbai by train/bus. Duration: 4-6 hours. Cost: $40"
+  },
+  "budget_breakdown": {
+    "total_budget": 500,
+    "transport_cost": 40,
+    "remaining_for_activities": 460,
+    "daily_budget": 230.0,
+    "actual_activities_cost": 120,
+    "remaining_buffer": 340
+  },
+  "destination_info": {
+    "city": "Mumbai",
+    "total_places_found": 6,
+    "places": [
+      {
+        "place_id": "mumbai_place_1",
+        "name": "Gateway of India",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "An iconic arch monument built in the early 20th century to commemorate the landing of King George V and Queen Mary at Apollo Bunder during their visit to India in 1911. It stands as a symbol of Mumbai.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "mumbai_place_2",
+        "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "A UNESCO World Heritage Site and a historic railway station in Mumbai, known for its Victorian Gothic Revival architecture blended with traditional Indian elements. It's one of the busiest railway stations in India.",
+        "city": "Mumbai",
+        "best_time_to_visit": "evening",
+        "duration_hours": 1,
+        "address": "D.N Road, Fort, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "mumbai_place_3",
+        "name": "Elephanta Caves",
+        "categories": [
+          "historical",
+          "monument",
+          "religious",
+          "outdoor"
+        ],
+        "price_level": 2,
+        "rating": 4.4,
+        "description": "A collection of cave temples predominantly dedicated to the Hindu god Shiva, located on Elephanta Island. These rock-cut sculptures date back to the 5th to 8th centuries and are a UNESCO World Heritage Site.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning",
+        "duration_hours": 4,
+        "address": "Gharapuri, Elephanta Island, Mumbai, Maharashtra"
+      },
+      {
+        "place_id": "mumbai_place_4",
+        "name": "Haji Ali Dargah",
+        "categories": [
+          "historical",
+          "monument",
+          "religious",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.5,
+        "description": "A mosque and dargah (tomb) located on an islet off the coast of Worli. It houses the tomb of Pir Haji Ali Shah Bukhari and is a revered pilgrimage site, accessible via a narrow causeway during low tide.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Dargah Road, Lala Lajpatrai Marg, Worli, Mumbai, Maharashtra 400026"
+      },
+      {
+        "place_id": "mumbai_place_5",
+        "name": "Bandra Fort (Castella de Aguada)",
+        "categories": [
+          "historical",
+          "fort",
+          "monument",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.3,
+        "description": "A historic Portuguese watchtower and fort built in 1640. It offers panoramic views of the Arabian Sea, Bandra-Worli Sea Link, and Mahim Bay, making it a popular spot for sunset views.",
+        "city": "Mumbai",
+        "best_time_to_visit": "evening",
+        "duration_hours": 1,
+        "address": "Byramji Jeejeebhoy Road, Bandstand, Bandra West, Mumbai, Maharashtra 400050"
+      },
+      {
+        "place_id": "mumbai_place_6",
+        "name": "Dr. Bhau Daji Lad Museum",
+        "categories": [
+          "historical",
+          "museum",
+          "art",
+          "monument"
+        ],
+        "price_level": 2,
+        "rating": 4.4,
+        "description": "Mumbai's oldest museum, housed in a magnificent Palladian-style building. It showcases the city's cultural heritage and history through a collection of archaeological finds, maps, historical photographs, and industrial arts.",
+        "city": "Mumbai",
+        "best_time_to_visit": "afternoon",
+        "duration_hours": 2,
+        "address": "91 A, Rani Baug, Veer Mata Jijabai Bhonsle Udyan, Dr Baba Saheb Ambedkar Rd, Byculla East, Mumbai, Maharashtra 400027"
+      }
+    ],
+    "top_rated": [
+      {
+        "place_id": "mumbai_place_2",
+        "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "A UNESCO World Heritage Site and a historic railway station in Mumbai, known for its Victorian Gothic Revival architecture blended with traditional Indian elements. It's one of the busiest railway stations in India.",
+        "city": "Mumbai",
+        "best_time_to_visit": "evening",
+        "duration_hours": 1,
+        "address": "D.N Road, Fort, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "mumbai_place_1",
+        "name": "Gateway of India",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "An iconic arch monument built in the early 20th century to commemorate the landing of King George V and Queen Mary at Apollo Bunder during their visit to India in 1911. It stands as a symbol of Mumbai.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "mumbai_place_4",
+        "name": "Haji Ali Dargah",
+        "categories": [
+          "historical",
+          "monument",
+          "religious",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.5,
+        "description": "A mosque and dargah (tomb) located on an islet off the coast of Worli. It houses the tomb of Pir Haji Ali Shah Bukhari and is a revered pilgrimage site, accessible via a narrow causeway during low tide.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1,
+        "address": "Dargah Road, Lala Lajpatrai Marg, Worli, Mumbai, Maharashtra 400026"
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Gateway of India",
+          "categories": [
+            "historical",
+            "monument",
+            "landmark",
+            "outdoor"
+          ],
+          "cost": 15,
+          "rating": 4.6,
+          "description": "An iconic arch monument built in the early 20th century to commemorate the landing of King George V and Queen Mary at Apollo Bunder during their visit to India in 1911. It stands as a symbol of Mumbai.",
+          "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+          "categories": [
+            "historical",
+            "monument",
+            "landmark"
+          ],
+          "cost": 15,
+          "rating": 4.7,
+          "description": "A UNESCO World Heritage Site and a historic railway station in Mumbai, known for its Victorian Gothic Revival architecture blended with traditional Indian elements. It's one of the busiest railway stations in India.",
+          "address": "D.N Road, Fort, Mumbai, Maharashtra 400001"
+        },
+        {
+          "time": "13:00 - 17:00",
+          "name": "Elephanta Caves",
+          "categories": [
+            "historical",
+            "monument",
+            "religious",
+            "outdoor"
+          ],
+          "cost": 30,
+          "rating": 4.4,
+          "description": "A collection of cave temples predominantly dedicated to the Hindu god Shiva, located on Elephanta Island. These rock-cut sculptures date back to the 5th to 8th centuries and are a UNESCO World Heritage Site.",
+          "address": "Gharapuri, Elephanta Island, Mumbai, Maharashtra"
+        }
+      ],
+      "total_cost": 60,
+      "within_budget": true
+    },
+    {
+      "day": 2,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Haji Ali Dargah",
+          "categories": [
+            "historical",
+            "monument",
+            "religious",
+            "landmark"
+          ],
+          "cost": 15,
+          "rating": 4.5,
+          "description": "A mosque and dargah (tomb) located on an islet off the coast of Worli. It houses the tomb of Pir Haji Ali Shah Bukhari and is a revered pilgrimage site, accessible via a narrow causeway during low tide.",
+          "address": "Dargah Road, Lala Lajpatrai Marg, Worli, Mumbai, Maharashtra 400026"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "name": "Bandra Fort (Castella de Aguada)",
+          "categories": [
+            "historical",
+            "fort",
+            "monument",
+            "outdoor"
+          ],
+          "cost": 15,
+          "rating": 4.3,
+          "description": "A historic Portuguese watchtower and fort built in 1640. It offers panoramic views of the Arabian Sea, Bandra-Worli Sea Link, and Mahim Bay, making it a popular spot for sunset views.",
+          "address": "Byramji Jeejeebhoy Road, Bandstand, Bandra West, Mumbai, Maharashtra 400050"
+        },
+        {
+          "time": "13:00 - 15:00",
+          "name": "Dr. Bhau Daji Lad Museum",
+          "categories": [
+            "historical",
+            "museum",
+            "art",
+            "monument"
+          ],
+          "cost": 30,
+          "rating": 4.4,
+          "description": "Mumbai's oldest museum, housed in a magnificent Palladian-style building. It showcases the city's cultural heritage and history through a collection of archaeological finds, maps, historical photographs, and industrial arts.",
+          "address": "91 A, Rani Baug, Veer Mata Jijabai Bhonsle Udyan, Dr Baba Saheb Ambedkar Rd, Byculla East, Mumbai, Maharashtra 400027"
+        }
+      ],
+      "total_cost": 60,
+      "within_budget": true
+    }
+  ],
+  "metadata": {
+    "generated_by": "TravelMate ML Service",
+    "ai_model": "Google Gemini 2.0 Flash",
+    "generated_at": "2026-03-15T01:47:35.741266",
+    "version": "2.0.0"
+  }
+}

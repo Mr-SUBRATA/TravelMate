@@ -1,0 +1,46 @@
+{
+    "user_id": "test-user-1",
+    "quiz_answers": {
+      "art_interest": 2,
+      "foodie_score": 5,
+      "adventure_seeking": 4,
+      "crowd_tolerance": 3,
+      "budget_conscious": 4,
+      "travel_pace": "balanced",
+      "interests": ["mountains", "street_food"],
+      "deal_breakers": []
+    },
+    "destination": "Pakistan",
+    "weather": {
+      "rain_prob": 0.2,
+      "temp": 22,
+      "condition": "clear"
+    },
+    "places": [
+      {
+        "place_id": "pk_lhr_badshahi",
+        "name": "Badshahi Mosque",
+        "categories": ["history", "mosque", "architecture", "religious"],
+        "price_level": 1,
+        "city": "Lahore",
+        "rating": 4.8
+      },
+      {
+        "place_id": "pk_isl_margalla",
+        "name": "Margalla Hills",
+        "categories": ["mountains", "outdoor", "hiking", "nature"],
+        "price_level": 1,
+        "city": "Islamabad",
+        "rating": 4.7
+      },
+      {
+        "place_id": "pk_hunza_eagle_nest",
+        "name": "Eagle's Nest Viewpoint",
+        "categories": ["mountains", "outdoor", "scenic", "adventure"],
+        "price_level": 2,
+        "city": "Hunza",
+        "rating": 4.9
+      }
+    ],
+    "top_k": 3
+  }

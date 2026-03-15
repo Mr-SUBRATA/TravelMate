@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714791806905",
+    "firebase_url": "https://trip-planer-6ef82-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trip-planer-6ef82",
+    "storage_bucket": "trip-planer-6ef82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714791806905:android:68f8e503125cf837e6f868",
+        "android_client_info": {
+          "package_name": "com.example.travel_planer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714791806905-7i623q3i99r15cq345rh6bm8hmuq74ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXDH4bOgjp6_9gQz9dJzsnJOhDsRRRfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714791806905-7i623q3i99r15cq345rh6bm8hmuq74ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

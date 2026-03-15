@@ -1,0 +1,331 @@
+{
+  "trip_request": {
+    "source": "Kolkata",
+    "destination": "Goa",
+    "budget": 500,
+    "days": 2,
+    "categories": [
+      "historical",
+      "monument"
+    ],
+    "timestamp": "2026-03-15T02:02:28.076612"
+  },
+  "journey": {
+    "from": "Kolkata",
+    "to": "Goa",
+    "transport": {
+      "mode": "train/bus",
+      "emoji": "🚂",
+      "duration": "4-6 hours",
+      "distance": "300 km",
+      "cost": 40
+    },
+    "route_stops": [
+      "Kolkata",
+      "→",
+      "Transfer",
+      "→",
+      "Goa"
+    ],
+    "summary": "Travel from Kolkata to Goa by train/bus. Duration: 4-6 hours. Cost: $40"
+  },
+  "budget_breakdown": {
+    "total_budget": 500,
+    "transport_cost": 40,
+    "remaining_for_activities": 460,
+    "daily_budget": 230.0,
+    "actual_activities_cost": 90,
+    "remaining_buffer": 370
+  },
+  "destination_info": {
+    "city": "Goa",
+    "total_places_found": 6,
+    "places": [
+      {
+        "place_id": "basilica_bom_jesus_goa",
+        "name": "Basilica of Bom Jesus",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark",
+          "church",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "A UNESCO World Heritage site, this basilica holds the mortal remains of St. Francis Xavier. It's one of the oldest churches in Goa and a prime example of Baroque architecture.",
+        "city": "Goa",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1.5,
+        "address": "Old Goa Road, Bainguinim, Goa 403402",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Basilica_of_Bom_Jesus%2C_Old_Goa.jpg/1280px-Basilica_of_Bom_Jesus%2C_Old_Goa.jpg"
+      },
+      {
+        "place_id": "se_cathedral_goa",
+        "name": "Se Cathedral",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark",
+          "church",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "One of the largest churches in Asia, dedicated to Catherine of Alexandria. Its impressive Portuguese-Manueline architecture and Golden Bell are notable features. Also a UNESCO World Heritage site.",
+        "city": "Goa",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1.0,
+        "address": "Velha Goa, Goa 403402",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Se_Cathedral_in_Old_Goa.jpg/1280px-Se_Cathedral_in_Old_Goa.jpg"
+      },
+      {
+        "place_id": "fort_aguada_goa",
+        "name": "Fort Aguada",
+        "categories": [
+          "historical",
+          "fort",
+          "landmark",
+          "outdoor",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.5,
+        "description": "A 17th-century Portuguese fort standing on Sinquerim Beach, overlooking the Arabian Sea. It was built to guard against the Dutch and Marathas and includes a lighthouse.",
+        "city": "Goa",
+        "best_time_to_visit": "afternoon",
+        "duration_hours": 2.0,
+        "address": "Fort Aguada Rd, Candolim, Goa 403515",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aguada_Fort_Goa.jpg/1280px-Aguada_Fort_Goa.jpg"
+      },
+      {
+        "place_id": "chapora_fort_goa",
+        "name": "Chapora Fort",
+        "categories": [
+          "historical",
+          "fort",
+          "landmark",
+          "outdoor",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.4,
+        "description": "Famous for its panoramic views of Vagator Beach and the Arabian Sea. This fort has a rich history, changing hands multiple times between the Portuguese and Marathas.",
+        "city": "Goa",
+        "best_time_to_visit": "evening",
+        "duration_hours": 1.5,
+        "address": "Chapora Fort Rd, Chapora, Goa 403509",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chapora_Fort_Goa.jpg/1280px-Chapora_Fort_Goa.jpg"
+      },
+      {
+        "place_id": "church_st_cajetan_goa",
+        "name": "Church of St. Cajetan",
+        "categories": [
+          "historical",
+          "religious",
+          "church",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.3,
+        "description": "Modeled after St. Peter's Basilica in Rome, this church is a magnificent example of Corinthian architecture. It was built by Italian friars of the Theatine Order.",
+        "city": "Goa",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1.0,
+        "address": "Velha Goa, Goa 403402",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Cajetan_Church%2C_Goa.jpg/1280px-St._Cajetan_Church%2C_Goa.jpg"
+      },
+      {
+        "place_id": "viceroys_arch_goa",
+        "name": "Viceroy's Arch",
+        "categories": [
+          "historical",
+          "landmark",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.2,
+        "description": "Erected by Vasco da Gama's grandson, Francisco da Gama, in 1597. It served as a symbolic entrance to Old Goa for incoming viceroys.",
+        "city": "Goa",
+        "best_time_to_visit": "morning",
+        "duration_hours": 0.5,
+        "address": "Velha Goa, Goa 403402",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Viceroy%27s_Arch%2C_Goa.jpg/1280px-Viceroy%27s_Arch%2C_Goa.jpg"
+      }
+    ],
+    "top_rated": [
+      {
+        "place_id": "basilica_bom_jesus_goa",
+        "name": "Basilica of Bom Jesus",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark",
+          "church",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "A UNESCO World Heritage site, this basilica holds the mortal remains of St. Francis Xavier. It's one of the oldest churches in Goa and a prime example of Baroque architecture.",
+        "city": "Goa",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1.5,
+        "address": "Old Goa Road, Bainguinim, Goa 403402",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Basilica_of_Bom_Jesus%2C_Old_Goa.jpg/1280px-Basilica_of_Bom_Jesus%2C_Old_Goa.jpg"
+      },
+      {
+        "place_id": "se_cathedral_goa",
+        "name": "Se Cathedral",
+        "categories": [
+          "historical",
+          "religious",
+          "landmark",
+          "church",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "One of the largest churches in Asia, dedicated to Catherine of Alexandria. Its impressive Portuguese-Manueline architecture and Golden Bell are notable features. Also a UNESCO World Heritage site.",
+        "city": "Goa",
+        "best_time_to_visit": "morning",
+        "duration_hours": 1.0,
+        "address": "Velha Goa, Goa 403402",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Se_Cathedral_in_Old_Goa.jpg/1280px-Se_Cathedral_in_Old_Goa.jpg"
+      },
+      {
+        "place_id": "fort_aguada_goa",
+        "name": "Fort Aguada",
+        "categories": [
+          "historical",
+          "fort",
+          "landmark",
+          "outdoor",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.5,
+        "description": "A 17th-century Portuguese fort standing on Sinquerim Beach, overlooking the Arabian Sea. It was built to guard against the Dutch and Marathas and includes a lighthouse.",
+        "city": "Goa",
+        "best_time_to_visit": "afternoon",
+        "duration_hours": 2.0,
+        "address": "Fort Aguada Rd, Candolim, Goa 403515",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aguada_Fort_Goa.jpg/1280px-Aguada_Fort_Goa.jpg"
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Basilica of Bom Jesus",
+          "categories": [
+            "historical",
+            "religious",
+            "landmark",
+            "church",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.7,
+          "description": "A UNESCO World Heritage site, this basilica holds the mortal remains of St. Francis Xavier. It's one of the oldest churches in Goa and a prime example of Baroque architecture.",
+          "address": "Old Goa Road, Bainguinim, Goa 403402",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Basilica_of_Bom_Jesus%2C_Old_Goa.jpg/1280px-Basilica_of_Bom_Jesus%2C_Old_Goa.jpg"
+        },
+        {
+          "time": "12:00 - 12:00",
+          "name": "Se Cathedral",
+          "categories": [
+            "historical",
+            "religious",
+            "landmark",
+            "church",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.6,
+          "description": "One of the largest churches in Asia, dedicated to Catherine of Alexandria. Its impressive Portuguese-Manueline architecture and Golden Bell are notable features. Also a UNESCO World Heritage site.",
+          "address": "Velha Goa, Goa 403402",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Se_Cathedral_in_Old_Goa.jpg/1280px-Se_Cathedral_in_Old_Goa.jpg"
+        },
+        {
+          "time": "14:00 - 16:00",
+          "name": "Fort Aguada",
+          "categories": [
+            "historical",
+            "fort",
+            "landmark",
+            "outdoor",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.5,
+          "description": "A 17th-century Portuguese fort standing on Sinquerim Beach, overlooking the Arabian Sea. It was built to guard against the Dutch and Marathas and includes a lighthouse.",
+          "address": "Fort Aguada Rd, Candolim, Goa 403515",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aguada_Fort_Goa.jpg/1280px-Aguada_Fort_Goa.jpg"
+        }
+      ],
+      "total_cost": 45,
+      "within_budget": true
+    },
+    {
+      "day": 2,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Chapora Fort",
+          "categories": [
+            "historical",
+            "fort",
+            "landmark",
+            "outdoor",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.4,
+          "description": "Famous for its panoramic views of Vagator Beach and the Arabian Sea. This fort has a rich history, changing hands multiple times between the Portuguese and Marathas.",
+          "address": "Chapora Fort Rd, Chapora, Goa 403509",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chapora_Fort_Goa.jpg/1280px-Chapora_Fort_Goa.jpg"
+        },
+        {
+          "time": "12:00 - 12:00",
+          "name": "Church of St. Cajetan",
+          "categories": [
+            "historical",
+            "religious",
+            "church",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.3,
+          "description": "Modeled after St. Peter's Basilica in Rome, this church is a magnificent example of Corinthian architecture. It was built by Italian friars of the Theatine Order.",
+          "address": "Velha Goa, Goa 403402",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Cajetan_Church%2C_Goa.jpg/1280px-St._Cajetan_Church%2C_Goa.jpg"
+        },
+        {
+          "time": "14:00 - 14:00",
+          "name": "Viceroy's Arch",
+          "categories": [
+            "historical",
+            "landmark",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.2,
+          "description": "Erected by Vasco da Gama's grandson, Francisco da Gama, in 1597. It served as a symbolic entrance to Old Goa for incoming viceroys.",
+          "address": "Velha Goa, Goa 403402",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Viceroy%27s_Arch%2C_Goa.jpg/1280px-Viceroy%27s_Arch%2C_Goa.jpg"
+        }
+      ],
+      "total_cost": 45,
+      "within_budget": true
+    }
+  ],
+  "metadata": {
+    "generated_by": "TravelMate ML Service",
+    "ai_model": "Google Gemini 2.5 Flash",
+    "generated_at": "2026-03-15T02:02:28.076612",
+    "version": "2.0.0"
+  }
+}

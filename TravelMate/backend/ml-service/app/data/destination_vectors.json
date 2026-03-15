@@ -1,0 +1,72 @@
+[
+    {
+      "id": "louvre",
+      "name": "Louvre Museum",
+      "vector": [0.9, 0.8, 0.7, 0.2, 0.3, 0.1, 0.2, 0.3, 0.4, 0.5, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+      "categories": ["art", "history", "museum"],
+      "cost": 17,
+      "outdoor": false,
+      "city": "Paris",
+      "rating": 4.8,
+      "popularity": 0.95,
+      "review_count": 287543,
+      "best_time": "morning",
+      "hidden_gem": false
+    },
+    {
+      "id": "eiffel",
+      "name": "Eiffel Tower",
+      "vector": [0.3, 0.2, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+      "categories": ["landmark", "views", "outdoor"],
+      "cost": 25,
+      "outdoor": true,
+      "city": "Paris",
+      "rating": 4.7,
+      "popularity": 0.98,
+      "review_count": 412876,
+      "best_time": "evening",
+      "hidden_gem": false
+    },
+    {
+      "id": "orsay",
+      "name": "Musée d'Orsay",
+      "vector": [0.8, 0.7, 0.6, 0.3, 0.2, 0.2, 0.3, 0.4, 0.5, 0.3, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+      "categories": ["art", "museum", "impressionist"],
+      "cost": 16,
+      "outdoor": false,
+      "city": "Paris",
+      "rating": 4.6,
+      "popularity": 0.85,
+      "review_count": 198765,
+      "best_time": "afternoon",
+      "hidden_gem": false
+    },
+    {
+      "id": "notre_dame",
+      "name": "Notre-Dame Cathedral",
+      "vector": [0.4, 0.3, 0.7, 0.5, 0.4, 0.3, 0.6, 0.5, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+      "categories": ["history", "architecture", "religious"],
+      "cost": 0,
+      "outdoor": false,
+      "city": "Paris",
+      "rating": 4.8,
+      "popularity": 0.92,
+      "review_count": 156432,
+      "best_time": "morning",
+      "hidden_gem": false
+    },
+    {
+      "id": "montmartre",
+      "name": "Montmartre",
+      "vector": [0.5, 0.4, 0.6, 0.6, 0.5, 0.7, 0.4, 0.3, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+      "categories": ["neighborhood", "art", "views", "outdoor"],
+      "cost": 0,
+      "outdoor": true,
+      "city": "Paris",
+      "rating": 4.7,
+      "popularity": 0.88,
+      "review_count": 245678,
+      "best_time": "evening",
+      "hidden_gem": false
+    }
+  ]

@@ -1,0 +1,299 @@
+{
+  "trip_request": {
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "budget": 500,
+    "days": 2,
+    "categories": [
+      "historical",
+      "monument"
+    ],
+    "timestamp": "2026-03-15T01:35:02.165646"
+  },
+  "journey": {
+    "from": "Delhi",
+    "to": "Mumbai",
+    "transport": {
+      "mode": "train/bus",
+      "emoji": "🚂",
+      "duration": "4-6 hours",
+      "distance": "300 km",
+      "cost": 40
+    },
+    "route_stops": [
+      "Delhi",
+      "→",
+      "Transfer",
+      "→",
+      "Mumbai"
+    ],
+    "summary": "Travel from Delhi to Mumbai by train/bus. Duration: 4-6 hours. Cost: $40"
+  },
+  "budget_breakdown": {
+    "total_budget": 500,
+    "transport_cost": 40,
+    "remaining_for_activities": 460,
+    "daily_budget": 230.0,
+    "actual_activities_cost": 105,
+    "remaining_buffer": 355
+  },
+  "destination_info": {
+    "city": "Mumbai",
+    "total_places_found": 6,
+    "places": [
+      {
+        "place_id": "gateway_of_india",
+        "name": "Gateway of India",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "An iconic arch monument built to commemorate the landing of King-Emperor George V and Queen Mary at Apollo Bunder during their 1911 visit to India.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning/evening",
+        "duration_hours": 1,
+        "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "csmt",
+        "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "A UNESCO World Heritage Site and an outstanding example of Victorian Gothic Revival architecture in India, serving as a historic railway station.",
+        "city": "Mumbai",
+        "best_time_to_visit": "afternoon/evening",
+        "duration_hours": 1.5,
+        "address": "Chhatrapati Shivaji Maharaj Terminus Area, Fort, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "elephanta_caves",
+        "name": "Elephanta Caves",
+        "categories": [
+          "historical",
+          "monument",
+          "religious",
+          "outdoor"
+        ],
+        "price_level": 2,
+        "rating": 4.4,
+        "description": "A UNESCO World Heritage Site, this collection of cave temples primarily dedicated to the Hindu god Shiva features rock-cut architecture dating back to the 5th-8th centuries.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning/afternoon",
+        "duration_hours": 4,
+        "address": "Gharapuri, Elephanta Island, Mumbai, Maharashtra 400001 (accessible by ferry from Gateway of India)"
+      },
+      {
+        "place_id": "haji_ali_dargah",
+        "name": "Haji Ali Dargah",
+        "categories": [
+          "historical",
+          "monument",
+          "religious"
+        ],
+        "price_level": 1,
+        "rating": 4.3,
+        "description": "A mosque and tomb located on an islet off the coast of Worli, housing the tomb of Pir Haji Ali Shah Bukhari. It's connected to the mainland by a narrow causeway.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning/evening",
+        "duration_hours": 1.5,
+        "address": "Dargah Road, Haji Ali, Mumbai, Maharashtra 400026"
+      },
+      {
+        "place_id": "bandra_fort",
+        "name": "Bandra Fort (Castella de Aguada)",
+        "categories": [
+          "historical",
+          "fort",
+          "monument",
+          "outdoor"
+        ],
+        "price_level": 1,
+        "rating": 4.2,
+        "description": "A historic Portuguese fort built in 1640 as a watchtower overlooking Mahim Bay, the Arabian Sea, and the southern island of Mahim. Offers panoramic views.",
+        "city": "Mumbai",
+        "best_time_to_visit": "evening",
+        "duration_hours": 1,
+        "address": "Byramji Jeejeebhoy Road, Bandstand, Bandra West, Mumbai, Maharashtra 400050"
+      },
+      {
+        "place_id": "afghan_church",
+        "name": "Afghan Church (Church of St. John the Evangelist)",
+        "categories": [
+          "historical",
+          "church",
+          "religious",
+          "monument"
+        ],
+        "price_level": 1,
+        "rating": 4.1,
+        "description": "A beautiful Gothic Revival church consecrated in 1858, built to commemorate the fallen soldiers of the First Afghan War. Known for its stained glass windows.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning/afternoon",
+        "duration_hours": 1,
+        "address": "Colaba, Near Navy Nagar, Mumbai, Maharashtra 400005"
+      }
+    ],
+    "top_rated": [
+      {
+        "place_id": "csmt",
+        "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.7,
+        "description": "A UNESCO World Heritage Site and an outstanding example of Victorian Gothic Revival architecture in India, serving as a historic railway station.",
+        "city": "Mumbai",
+        "best_time_to_visit": "afternoon/evening",
+        "duration_hours": 1.5,
+        "address": "Chhatrapati Shivaji Maharaj Terminus Area, Fort, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "gateway_of_india",
+        "name": "Gateway of India",
+        "categories": [
+          "historical",
+          "monument",
+          "landmark"
+        ],
+        "price_level": 1,
+        "rating": 4.6,
+        "description": "An iconic arch monument built to commemorate the landing of King-Emperor George V and Queen Mary at Apollo Bunder during their 1911 visit to India.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning/evening",
+        "duration_hours": 1,
+        "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+      },
+      {
+        "place_id": "elephanta_caves",
+        "name": "Elephanta Caves",
+        "categories": [
+          "historical",
+          "monument",
+          "religious",
+          "outdoor"
+        ],
+        "price_level": 2,
+        "rating": 4.4,
+        "description": "A UNESCO World Heritage Site, this collection of cave temples primarily dedicated to the Hindu god Shiva features rock-cut architecture dating back to the 5th-8th centuries.",
+        "city": "Mumbai",
+        "best_time_to_visit": "morning/afternoon",
+        "duration_hours": 4,
+        "address": "Gharapuri, Elephanta Island, Mumbai, Maharashtra 400001 (accessible by ferry from Gateway of India)"
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Gateway of India",
+          "categories": [
+            "historical",
+            "monument",
+            "landmark"
+          ],
+          "cost": 15,
+          "rating": 4.6,
+          "description": "An iconic arch monument built to commemorate the landing of King-Emperor George V and Queen Mary at Apollo Bunder during their 1911 visit to India.",
+          "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+          "categories": [
+            "historical",
+            "monument",
+            "landmark"
+          ],
+          "cost": 15,
+          "rating": 4.7,
+          "description": "A UNESCO World Heritage Site and an outstanding example of Victorian Gothic Revival architecture in India, serving as a historic railway station.",
+          "address": "Chhatrapati Shivaji Maharaj Terminus Area, Fort, Mumbai, Maharashtra 400001"
+        },
+        {
+          "time": "14:00 - 18:00",
+          "name": "Elephanta Caves",
+          "categories": [
+            "historical",
+            "monument",
+            "religious",
+            "outdoor"
+          ],
+          "cost": 30,
+          "rating": 4.4,
+          "description": "A UNESCO World Heritage Site, this collection of cave temples primarily dedicated to the Hindu god Shiva features rock-cut architecture dating back to the 5th-8th centuries.",
+          "address": "Gharapuri, Elephanta Island, Mumbai, Maharashtra 400001 (accessible by ferry from Gateway of India)"
+        }
+      ],
+      "total_cost": 60,
+      "within_budget": true
+    },
+    {
+      "day": 2,
+      "activities": [
+        {
+          "time": "09:00 - 10:00",
+          "name": "Haji Ali Dargah",
+          "categories": [
+            "historical",
+            "monument",
+            "religious"
+          ],
+          "cost": 15,
+          "rating": 4.3,
+          "description": "A mosque and tomb located on an islet off the coast of Worli, housing the tomb of Pir Haji Ali Shah Bukhari. It's connected to the mainland by a narrow causeway.",
+          "address": "Dargah Road, Haji Ali, Mumbai, Maharashtra 400026"
+        },
+        {
+          "time": "12:00 - 12:00",
+          "name": "Bandra Fort (Castella de Aguada)",
+          "categories": [
+            "historical",
+            "fort",
+            "monument",
+            "outdoor"
+          ],
+          "cost": 15,
+          "rating": 4.2,
+          "description": "A historic Portuguese fort built in 1640 as a watchtower overlooking Mahim Bay, the Arabian Sea, and the southern island of Mahim. Offers panoramic views.",
+          "address": "Byramji Jeejeebhoy Road, Bandstand, Bandra West, Mumbai, Maharashtra 400050"
+        },
+        {
+          "time": "14:00 - 14:00",
+          "name": "Afghan Church (Church of St. John the Evangelist)",
+          "categories": [
+            "historical",
+            "church",
+            "religious",
+            "monument"
+          ],
+          "cost": 15,
+          "rating": 4.1,
+          "description": "A beautiful Gothic Revival church consecrated in 1858, built to commemorate the fallen soldiers of the First Afghan War. Known for its stained glass windows.",
+          "address": "Colaba, Near Navy Nagar, Mumbai, Maharashtra 400005"
+        }
+      ],
+      "total_cost": 45,
+      "within_budget": true
+    }
+  ],
+  "metadata": {
+    "generated_by": "TravelMate ML Service",
+    "ai_model": "Google Gemini 2.0 Flash",
+    "generated_at": "2026-03-15T01:35:02.165646",
+    "version": "2.0.0"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "user_id": "test_user_123",
+  "destination": "Paris",
+  "weather": {
+    "rain_prob": 0.8,
+    "temp": 22,
+    "condition": "rainy"
+  },
+  "user_preferences": {
+    "art_interest": 5,
+    "foodie_score": 3,
+    "adventure_seeking": 2,
+    "crowd_tolerance": 3,
+    "budget_conscious": 3,
+    "travel_pace": "balanced",
+    "interests": [],
+    "deal_breakers": []
+  },
+  "recommendations": [
+    {
+      "id": "paris_fallback_0",
+      "name": "Paris Museum 1",
+      "categories": [
+        "museum",
+        "art"
+      ],
+      "cost": 15,
+      "outdoor": false,
+      "city": "Paris",
+      "match_score": 0.9,
+      "rating": 4.0,
+      "weather_note": "✅ Weather suitable",
+      "reasons": [
+        "🎨 You rated art interest 5/5",
+        "💰 Great value ($15)",
+        "⭐ Rated 4.0/5 by visitors"
+      ],
+      "scores": {
+        "similarity": 0.8,
+        "weather": 0.2,
+        "crowd": 0.7,
+        "budget": 0.8,
+        "time": 0.8,
+        "popularity": 0.8
+      }
+    },
+    {
+      "id": "paris_fallback_1",
+      "name": "Paris Landmark 2",
+      "categories": [
+        "landmark",
+        "historical"
+      ],
+      "cost": 30,
+      "outdoor": false,
+      "city": "Paris",
+      "match_score": 0.51,
+      "rating": 4.1,
+      "weather_note": "✅ Weather suitable",
+      "reasons": [
+        "💰 Great value ($30)",
+        "⭐ Rated 4.1/5 by visitors"
+      ],
+      "scores": {
+        "similarity": 0.41,
+        "weather": 0.2,
+        "crowd": 0.7,
+        "budget": 0.8,
+        "time": 0.8,
+        "popularity": 0.82
+      }
+    },
+    {
+      "id": "paris_fallback_2",
+      "name": "Paris Restaurant 3",
+      "categories": [
+        "restaurant",
+        "food"
+      ],
+      "cost": 45,
+      "outdoor": false,
+      "city": "Paris",
+      "match_score": 0.76,
+      "rating": 4.2,
+      "weather_note": "✅ Weather suitable",
+      "reasons": [
+        "🍽️ You're a foodie (3/5)",
+        "⭐ Rated 4.2/5 by visitors"
+      ],
+      "scores": {
+        "similarity": 0.66,
+        "weather": 0.2,
+        "crowd": 0.7,
+        "budget": 0.8,
+        "time": 0.8,
+        "popularity": 0.8400000000000001
+      }
+    }
+  ],
+  "processing_time_ms": 150,
+  "model_version": "1.0.0"
+}
